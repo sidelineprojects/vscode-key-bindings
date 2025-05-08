@@ -1,5 +1,13 @@
 [
   {
+    "key": "Shift Shift",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "cmd+shift+e",
+    "command": "workbench.files.action.showActiveFileInExplorer"
+  },
+  {
     "key": "cmd+o cmd+p",
     "command": "workbench.action.showCommands"
   },
